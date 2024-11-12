@@ -8,7 +8,7 @@ order: 2
 
 > **Qualification** : \
 > Computer engineer aggregation in 2023
->
+
 > **Courses teached** :\
 > oct 2024 - nov 2024 : Informatic TP (java), L1 at Diderot University, Paris \
 > \
