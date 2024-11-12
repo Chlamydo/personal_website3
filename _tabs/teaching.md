@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-briefcase
+icon: 🗿
 order: 2
 ---
 
