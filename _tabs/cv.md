@@ -1,6 +1,6 @@
 --
 layout : page
-icon: fas fa-card-id-o
+icon: fas fa-graduationcap
 order: 3
 ---
 
