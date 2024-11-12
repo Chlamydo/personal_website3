@@ -4,7 +4,7 @@ icon: fas fa-briefcase
 order: 2
 ---
 
-> Qualification : \
+> \bold{Qualification} : \
 > Computer engineer aggregation in 2023
 >
 > Courses teached :\
