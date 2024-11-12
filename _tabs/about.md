@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-card-id-o
+icon: fas fa-id-card-o
 order: 4
 ---
 
