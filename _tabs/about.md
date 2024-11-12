@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-bug
+icon: 🐉
 order: 4
 ---
 
