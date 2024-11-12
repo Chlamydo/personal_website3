@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-🗿
+icon: fas fa-leanpub
 order: 2
 ---
 
