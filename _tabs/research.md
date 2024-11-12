@@ -1,4 +1,5 @@
 ---
+layout : page
 icon: fas fa-binoculars
 order: 1
 ---
