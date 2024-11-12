@@ -4,7 +4,7 @@ icon: fas fa-bug
 order: 3
 ---
 
-> Hey, I am currently doing a Phd in symmetric cryptanalysis at Inria Paris !
+> Hey, I am currently doing a Phd in symmetric cryptanalysis at Inria Paris ! I live in the 13th district of Paris so you may found me there !
 {: .prompt-tip }
 >
 > I have to make my own personal page while waiting for Wikipedia to provide one...
