@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: 🗿
+icon: fas fa-🗿
 order: 2
 ---
 
