@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-leanpub
+icon: fas fa-briefcase
 order: 2
 ---
 
