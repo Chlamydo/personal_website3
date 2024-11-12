@@ -1,6 +1,6 @@
 ---
 layout : page
-icon: fas fa-binoculars
+icon: 🔭
 order: 1
 ---
 
