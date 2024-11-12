@@ -1,6 +1,6 @@
 --
 layout : page
-icon: 📄
+icon: fas fa-card-id-o
 order: 3
 ---
 
