@@ -1,5 +1,4 @@
 ---
-layout: Research
 icon: fas fa-binoculars
 order: 1
 ---
