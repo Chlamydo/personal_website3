@@ -9,3 +9,5 @@ order: 1
 > 
 > Work in progress, don't worry and don't worry me, i'm a "force tranquille".
 >
+# Thesis
+> I am supervised by Dr Naya-Plasencia and Dr Derbez for "Optimizing cryptanalysis of symmetric primitives"
